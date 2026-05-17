@@ -26,7 +26,7 @@ Users can enter a city name, fetch live weather data from the OpenWeather API, a
 
 The backend API was tested using FastAPI's built-in Swagger UI.
 
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f62f8904-a928-431f-8e85-cbad534e4491" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a761f250-785e-41df-83c9-c18f87f9ee83" />
 
 
 
