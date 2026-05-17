@@ -28,5 +28,6 @@ The backend API was tested using FastAPI's built-in Swagger UI.
 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/a761f250-785e-41df-83c9-c18f87f9ee83" />
 
+<img width="1366" height="569" alt="Screenshot 2026-05-18 003450" src="https://github.com/user-attachments/assets/74c717f6-1aec-4fdd-933d-2be44e745598" />
 
 
